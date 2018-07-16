@@ -6,3 +6,4 @@
  * Time: 12:26 PM
  */
 echo "hello world";
+ECHO "I LIKE IT LIKE THAT";
